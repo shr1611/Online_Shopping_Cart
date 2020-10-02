@@ -1,12 +1,12 @@
 # Online_Shopping_Cart
 A Full-Stack web application developed using Ruby on Rails with SQLite3 database. Created RESTful APIs and routing for shopper and administrator login accounts..
 
-------- README.txt ---------
-COEN278 Assignment 3 - Online Store using Ruby with Rails 
+
+Online Store using Ruby with Rails 
 ----------------------------------------------------------
-Submitted by:
+Developed and Submitted by:
 Shruti Jagadeesh Bhat
-W1587845
+CSE Grad Student,
 Santa Clara University 
 ----------------------------------------------------------
 Layout:
