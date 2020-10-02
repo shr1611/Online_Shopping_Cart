@@ -5,7 +5,7 @@ A Full-Stack web application developed using Ruby on Rails with SQLite3 database
 Online Store using Ruby with Rails 
 ----------------------------------------------------------
 Developed and Submitted by:
-Shruti Jagadeesh Bhat
+Shruti Jagadeesh Bhat,
 CSE Grad Student,
 Santa Clara University 
 ----------------------------------------------------------
