@@ -43,6 +43,9 @@ The default page is "shopper's catalog page"
 
 5. Click on check out will take you to a new page, "New order form". Fill in the details and click "Place Order". It will create the order
  redirect to the shopper page with a success message. 
+ 
+ 
+ 
 
 View2: Admin View
 ------------------------------------
